@@ -1,5 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+```bash
+npx create-react-app my-react-redux-ts-app --template typescript --use-npm
+```
+
+Tutorial: [Quick Start · React Redux](https://react-redux.js.org/introduction/quick-start)
+Sample: [Redux](https://redux.js.org/basics/example)
+Sample code: [Todo App with Redux - CodeSandbox](https://codesandbox.io/s/9on71rvnyo?file=/package.json)
+
+```bash
+npm install redux --save
+npm install react-redux --save
+npm install classnames --save
+npm install @types/redux --saveDev
+npm install @types/react-redux --saveDev
+npm install @types/webpack-env --saveDev
+npm install @types/classnames --saveDev
+```
+
+---
+Org. README:  
 ## Available Scripts
 
 In the project directory, you can run:
