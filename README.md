@@ -7,6 +7,7 @@ npx create-react-app my-react-redux-ts-app --template typescript --use-npm
 Tutorial: [Quick Start · React Redux](https://react-redux.js.org/introduction/quick-start)
 Sample: [Redux](https://redux.js.org/basics/example)
 Sample code: [Todo App with Redux - CodeSandbox](https://codesandbox.io/s/9on71rvnyo?file=/package.json)
+Vids: [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 ```bash
 npm install redux --save
